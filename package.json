@@ -1,0 +1,19 @@
+{
+  "name": "AngularFun",
+  "version": "0.0.0",
+  "description": "fun for all",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^2.1.1",
+    "gulp-webserver": "^0.9.1",
+    "opn": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sydney",
+  "license": "ISC"
+}
